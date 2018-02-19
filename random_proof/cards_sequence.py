@@ -15,7 +15,7 @@ nr_moves = 0
 for x in range(20):
     cards.append(face_down)
     
-print(cars)
+print(cards)
     
 while cards.count(face_down) != 0:
 
