@@ -14,7 +14,9 @@ nr_moves = 0
 
 for x in range(20):
     cards.append(face_down)
-
+    
+print(cars)
+    
 while cards.count(face_down) != 0:
 
     if rand_card != 19:
